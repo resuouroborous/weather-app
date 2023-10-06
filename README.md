@@ -1,4 +1,4 @@
-# weather-app
+# Weather-app
 
 
 ## Introduction
@@ -19,7 +19,7 @@ With this app, you can quickly check the current weather conditions, temperature
 
 
 ## Getting Started
-  ###Prerequisites
+  ### Prerequisites
   Before you can run the Weather App locally or deploy it, you'll need the following:
   - VS code and a browser ( chrome is preferred ) on your machine.
   - An API key from your preferred weather data provider (e.g., OpenWeatherMap, AccuWeather).
