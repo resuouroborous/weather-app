@@ -34,7 +34,7 @@ This app allows users to search for any city and get the current temperature, hu
 ## 📂 Project Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone [https://github.com/your-username/weather-app.git](https://github.com/resuouroborous/weather-app.git)
 
 2. Navigate to the project folder:
    ```bash
