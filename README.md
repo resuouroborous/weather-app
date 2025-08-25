@@ -26,8 +26,10 @@ This app allows users to search for any city and get the current temperature, hu
 
 ---
 
-## 📸 Preview
+## 📸 Preview & Live Demo
   ![Weather App screenshot](https://github.com/resuouroborous/weather-app/blob/main/images/weather-app-ss.png?raw=true)
+
+(https://resuouroborous.github.io/weather-app/)
 
 ---
 
